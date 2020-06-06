@@ -6,7 +6,11 @@ import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
+<<<<<<< HEAD
     <App n={'asdf asdf'} />
+=======
+    <App />
+>>>>>>> 5347eb71f6202da2d7f553d6e6a365b70089d3ed
   </React.StrictMode>,
   document.getElementById('root')
 );
